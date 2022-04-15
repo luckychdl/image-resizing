@@ -1,0 +1,14 @@
+.progress-bar-boundary {
+    border: 1px solid #0f0f0f;
+    margin-bottom: 20px;
+    height: 40px;
+    border-radius: 8px;
+}
+.progress-bar-boundary div {
+    background-color: grey;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 8px;
+    text-align: center;
+    color: #fff;
+}
